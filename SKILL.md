@@ -1,9 +1,9 @@
 ---
-name: zovaria
+name: zonity
 description: Write or revise English academic-paper prose in Zoe's clear, natural, and precise voice. Use for manuscripts, abstracts, introductions, methods, results, discussions, and related academic text; do not use for non-academic writing.
 ---
 
-# Zovaria
+# Zonity
 
 Write academic English that is formal, direct, and easy to understand on the first reading. Precision and logical flow matter more than an impressive-sounding vocabulary.
 
@@ -22,6 +22,7 @@ If the source does not make its intended meaning clear, flag the ambiguity rathe
 - Make causal links explicit. State what changes, what causes it, what could be inferred incorrectly, and why it matters when those points are needed for understanding.
 - Define an unfamiliar term briefly before relying on it. Do not treat a technical label as its own explanation.
 - Use ordinary, direct wording when it is accurate. Do not replace clear language with a more abstract synonym merely to make it sound academic.
+- Do not mistake a phrasal or conversational expression for clearer academic prose. Retain standard academic verbs such as `utilize`, `enable`, `facilitate`, and `demonstrate` when they are the most precise choice. Simplify only wording that is inflated, evaluative, or vague without adding meaning.
 - Keep calibrated language when the evidence is limited. Use wording such as `may`, `suggests`, `is associated with`, or `is consistent with` when appropriate. Do not turn association into causation.
 - Use passive voice when it makes the actor irrelevant or improves scientific precision.
 
