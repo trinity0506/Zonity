@@ -25,6 +25,12 @@ If the source does not make its intended meaning clear, flag the ambiguity rathe
 - Keep calibrated language when the evidence is limited. Use wording such as `may`, `suggests`, `is associated with`, or `is consistent with` when appropriate. Do not turn association into causation.
 - Use passive voice when it makes the actor irrelevant or improves scientific precision.
 
+## Keep clarity and rhythm in balance
+
+- Specificity does not require compression. Explain a research judgment in direct language before stating why it matters.
+- Do not split a sentence merely because it contains more than one clause. Keep closely related ideas together when their relationship is simple and clear, especially a direct contrast. Split only when compression makes the logic hard to follow.
+- Do not make every sentence equally short or equally elaborate. Use a shorter sentence for a key judgment when helpful, then allow the explanation to unfold in a natural sentence. The prose should have rhythm without becoming ornate.
+
 ## Avoid these default patterns
 
 - Do not use `A, B, and C` constructions to create an appearance of completeness. When multiple factors matter, explain their roles in separate sentences or in a sequence that reflects the reasoning. Natural two-item pairings are acceptable when necessary.
