@@ -1,50 +1,50 @@
 # Zonity
 
-Zonity is a personal skill for writing and revising English academic prose in Zoe's preferred voice: clear, natural, precise, and easy to understand on the first reading.
+Zonity 是一个用于撰写和修改英文学术文本的个人技能。它遵循 Zoe 偏好的写作风格：清晰、自然、准确，让读者第一次阅读时就能理解。
 
-It is intended for research manuscripts and related academic text. It keeps the original evidence, uncertainty, citations, and technical meaning intact while improving expression and logical flow.
+它适用于研究论文及相关学术文本。在改善表达和逻辑衔接的同时，它会保留原文中的证据、不确定性、引文和技术含义。
 
-## What it checks
+## 检查内容
 
-Zonity helps ensure that academic prose:
+Zonity 帮助确保学术文本：
 
-- uses clear subjects and complete sentences;
-- explains unfamiliar terms before relying on them;
-- avoids vague references and overloaded sentences;
-- avoids mechanical `A, B, and C` lists and unnecessary technical stacking;
-- connects paragraphs into a continuous argument rather than a set of isolated topics;
-- uses claims that match the available evidence.
+- 使用明确的主语和完整的句子；
+- 在使用陌生术语展开论述前先对其进行解释；
+- 避免指代不清和句子承载过多信息；
+- 避免机械地使用 `A、B 和 C` 式列举，以及不必要的技术术语堆砌；
+- 让段落之间形成连贯的论证，而不是彼此孤立的话题；
+- 使论断与现有证据相符。
 
-It preserves normal, precise academic verbs such as `utilize`, `enable`, `facilitate`, and `demonstrate`. Removing an artificial tone should not make the prose conversational or less exact.
+它会保留 `utilize`、`enable`、`facilitate` 和 `demonstrate` 等常见且准确的学术动词。消除生硬的文风，不应让文本变得口语化或降低其准确性。
 
-It does not add unsupported motivations, methods, findings, or stronger conclusions.
+它不会添加缺乏依据的研究动机、方法或发现，也不会擅自强化结论。
 
-## Install in Codex
+## 在 Codex 中安装
 
-Copy this repository into the Codex skills directory so that the file is located at:
+将此仓库复制到 Codex 的技能目录中，使文件位于：
 
 ```text
 ~/.codex/skills/zonity/SKILL.md
 ```
 
-Codex will then discover `zonity` automatically for relevant academic-writing requests. It can also be invoked explicitly as `$zonity`.
+之后，Codex 会在处理相关学术写作请求时自动发现 `zonity`。也可以使用 `$zonity` 显式调用它。
 
-## Install in Claude Code
+## 在 Claude Code 中安装
 
-Copy the same repository into the Claude Code skills directory:
+将此仓库复制到 Claude Code 的技能目录中：
 
 ```text
 ~/.claude/skills/zonity/SKILL.md
 ```
 
-The skill uses a standard `SKILL.md` file and does not depend on platform-specific instructions.
+此技能使用标准的 `SKILL.md` 文件，不依赖任何特定平台的指令。
 
-## Use
+## 使用方法
 
-Ask the agent to draft or revise academic prose, or invoke the skill explicitly:
+可以让智能体起草或修改学术文本，也可以显式调用此技能：
 
 ```text
-Use $zonity to revise the following introduction paragraph.
+使用 $zonity 修改下面的引言段落。
 ```
 
-For the complete writing rules, see [SKILL.md](SKILL.md).
+完整的写作规则请参阅 [SKILL.md](SKILL.md)。
