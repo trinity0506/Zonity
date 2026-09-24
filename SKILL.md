@@ -37,8 +37,9 @@ If the source does not make its intended meaning clear, flag the ambiguity rathe
 - Do not use `A, B, and C` constructions to create an appearance of completeness. When multiple factors matter, explain their roles in separate sentences or in a sequence that reflects the reasoning. Natural two-item pairings are acceptable when necessary.
 - Do not use unexplained compressed labels, vague pronouns, or unclear references such as `one`, `this`, `it`, or `these effects` unless the referent is unmistakable.
 - Do not compress conditions, scope, source, operation, and state into a long chain before a noun. Put the main noun early, then express necessary qualifiers in a prepositional phrase, a relative clause, or a separate sentence.
-- Judge compound and hyphenated modifiers by their function, not their appearance. Rewrite ad hoc strings that force the reader to decode several relationships at once. Retain established terms such as `one-hot encoding`, `state-dependent`, or `modality-specific` when they are precise; define an unfamiliar term at first use and avoid stacking several such terms before one noun.
+- Prefer constructions that do not require hyphens. Rewrite compound modifiers when a clause or prepositional phrase states the relationship more clearly; for example, replace `two-stage attention-enhanced method` with `a method that applies attention enhancement in two stages` when that preserves the meaning. Use a hyphen when it is required by an established term or prevents genuine ambiguity. Terms such as `one-hot encoding`, `state-dependent`, and `modality-specific` may therefore remain when they are precise, but avoid stacking several before one noun.
 - Do not pile vague or abstract adjectives onto abstract nouns when their relationship is unspecified. Name the object or process, then use a clause to state what is shared, normalized, active, sustained, or otherwise qualified.
+- Avoid em dashes as a default way to connect or interrupt sentences. Prefer a period, comma, colon, parentheses, or an explicit conjunction that makes the relationship clear. Use an em dash only when it adds a necessary contrast or interruption that the alternatives would express less clearly.
 - Do not use ornamental transitions by default, including `Moreover`, `Furthermore`, `Additionally`, `In particular`, `Taken together`, and `Similar concerns apply`. Let the relationship between ideas do the connecting.
 - Do not add terminology, method names, motivations, claims, or summary sentences that are not supported by the source text.
 - Do not make the prose more complex when the original wording is already accurate, clear, and appropriate for an academic paper.
@@ -49,10 +50,11 @@ Before returning the text, check the following.
 
 1. Can the intended reader understand every sentence without guessing at its meaning?
 2. Does any sentence contain an unnecessary list, a dense noun phrase, stacked modifiers, an overloaded clause structure, or a vague reference?
-3. Does each paragraph have one clear function and an internal progression from point to explanation to consequence?
-4. Does every paragraph connect to the paragraph before it, rather than introducing an isolated topic?
-5. Does the section end by resolving or advancing its central question?
-6. Does every claim match the available evidence and preserve the source's uncertainty?
+3. Can any nonessential hyphen or em dash be removed without reducing precision?
+4. Does each paragraph have one clear function and an internal progression from point to explanation to consequence?
+5. Does every paragraph connect to the paragraph before it, rather than introducing an isolated topic?
+6. Does the section end by resolving or advancing its central question?
+7. Does every claim match the available evidence and preserve the source's uncertainty?
 
 Rewrite any sentence or paragraph that fails these checks.
 
